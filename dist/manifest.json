@@ -1,0 +1,17 @@
+{
+  "name": "ClassHub MMI",
+  "short_name": "ClassHub",
+  "description": "L'agenda collaboratif des étudiants MMI de l'IUT de Limoges.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
